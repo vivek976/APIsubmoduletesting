@@ -429,3 +429,4 @@ D:\newfolder\PiHire.o\PiHire.API\obj\Debug\net7.0\scopedcss\bundle\PiHire.API.st
 D:\newfolder\PiHire.o\PiHire.API\obj\Debug\net7.0\PiHire.API.csproj.CopyComplete
 D:\newfolder\PiHire.o\PiHire.API\obj\Debug\net7.0\PiHire.API.genruntimeconfig.cache
 D:\newfolder\PiHire.o\PiHire.API\obj\Debug\net7.0\ref\PiHire.API.dll
+D:\newfolder\PiHire.o\PiHire.API\obj\Debug\net7.0\PiHire.API.sourcelink.json

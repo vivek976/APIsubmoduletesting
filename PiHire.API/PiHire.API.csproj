@@ -44,6 +44,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\COMMON FILES\PiHire.BAL\PiHire.BAL.csproj" />
     <ProjectReference Include="..\COMMON FILES\PiHire.BAL\PiHire.BAL.csproj" />
   
   </ItemGroup>

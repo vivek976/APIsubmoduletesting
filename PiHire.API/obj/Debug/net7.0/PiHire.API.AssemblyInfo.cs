@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiHire.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bad5793be45e58cdb64b2b9a714af18cf385405c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f8233f3c47af059fbf851490b0e6b1207772acb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiHire.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiHire.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

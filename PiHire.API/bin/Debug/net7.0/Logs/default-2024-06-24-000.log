@@ -1,0 +1,32 @@
+﻿info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[UsingProfileAsKeyRepositoryWithDPAPI] @ 2024-06-24T12:59:54.8590173+05:30
+      User profile is available. Using 'C:\Users\vivek\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+info: Microsoft.Hosting.Lifetime[0] @ 2024-06-24T12:59:59.4887224+05:30
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0] @ 2024-06-24T12:59:59.4900848+05:30
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0] @ 2024-06-24T12:59:59.4901404+05:30
+      Content root path: D:\newfolder\PiHire.o\PiHire.API
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-06-24T12:59:59.7254365+05:30
+      Request starting HTTP/1.1 GET http://localhost:64821/swagger/index.html - -
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[FailedToDeterminePort] @ 2024-06-24T13:00:00.4514549+05:30
+      Failed to determine the https port for redirect.
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-06-24T13:00:02.4134101+05:30
+      Request finished HTTP/1.1 GET http://localhost:64821/swagger/index.html - - - 200 - text/html;charset=utf-8 2692.2173ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-06-24T13:00:02.4555309+05:30
+      Request starting HTTP/1.1 GET http://localhost:64821/_framework/aspnetcore-browser-refresh.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-06-24T13:00:02.4630198+05:30
+      Request finished HTTP/1.1 GET http://localhost:64821/_framework/aspnetcore-browser-refresh.js - - - 200 13756 application/javascript;+charset=utf-8 6.8292ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-06-24T13:00:02.4805073+05:30
+      Request starting HTTP/1.1 GET http://localhost:64821/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-06-24T13:00:02.5996009+05:30
+      Request finished HTTP/1.1 GET http://localhost:64821/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 119.0829ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-06-24T13:00:02.8439886+05:30
+      Request starting HTTP/1.1 GET http://localhost:64821/swagger/v1/swagger.json - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-06-24T13:00:02.8798185+05:30
+      Request starting HTTP/1.1 GET http://localhost:64821/swagger/favicon-32x32.png - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[FileServed] @ 2024-06-24T13:00:02.9051414+05:30
+      Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-06-24T13:00:02.9064801+05:30
+      Request finished HTTP/1.1 GET http://localhost:64821/swagger/favicon-32x32.png - - - 200 628 image/png 26.5557ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-06-24T13:00:03.3754339+05:30
+      Request finished HTTP/1.1 GET http://localhost:64821/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 531.4803ms

@@ -12148,18 +12148,18 @@
     },
     "PiHire.BAL/1.0.0": {
       "type": "project",
-      "path": "../COMMON FILES/PiHire.BAL/PiHire.BAL.csproj",
-      "msbuildProject": "../COMMON FILES/PiHire.BAL/PiHire.BAL.csproj"
+      "path": "../../COMMON FILES/PiHire.BAL/PiHire.BAL.csproj",
+      "msbuildProject": "../../COMMON FILES/PiHire.BAL/PiHire.BAL.csproj"
     },
     "PiHire.DAL/1.0.0": {
       "type": "project",
-      "path": "../COMMON FILES/PiHire.DAL/PiHire.DAL.csproj",
-      "msbuildProject": "../COMMON FILES/PiHire.DAL/PiHire.DAL.csproj"
+      "path": "../../COMMON FILES/PiHire.DAL/PiHire.DAL.csproj",
+      "msbuildProject": "../../COMMON FILES/PiHire.DAL/PiHire.DAL.csproj"
     },
     "PiHire.Utilities/1.0.0": {
       "type": "project",
-      "path": "../COMMON FILES/PiHire.Utilities/PiHire.Utilities.csproj",
-      "msbuildProject": "../COMMON FILES/PiHire.Utilities/PiHire.Utilities.csproj"
+      "path": "../../COMMON FILES/PiHire.Utilities/PiHire.Utilities.csproj",
+      "msbuildProject": "../../COMMON FILES/PiHire.Utilities/PiHire.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12216,6 +12216,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "D:\\newfolder\\COMMON FILES\\PiHire.BAL\\PiHire.BAL.csproj": {
+              "projectPath": "D:\\newfolder\\COMMON FILES\\PiHire.BAL\\PiHire.BAL.csproj"
+            },
             "D:\\newfolder\\PiHire.o\\COMMON FILES\\PiHire.BAL\\PiHire.BAL.csproj": {
               "projectPath": "D:\\newfolder\\PiHire.o\\COMMON FILES\\PiHire.BAL\\PiHire.BAL.csproj"
             }
