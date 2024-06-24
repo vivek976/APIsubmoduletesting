@@ -1,3 +1,6 @@
 [submodule "DALBAL"]
 	path = DALBAL
 	url = https://github.com/vivek976/DALBAL.git
+[submodule "commonfiles"]
+	path = commonfiles
+	url = https://github.com/vivek976/commonfiles.git
